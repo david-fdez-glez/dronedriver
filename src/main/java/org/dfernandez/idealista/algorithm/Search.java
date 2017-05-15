@@ -16,7 +16,10 @@ public interface Search {
      */
     public List<String> search();
 
-
+    /**
+     * Set algorithm startNode
+     * @param startNode
+     */
     public void setStartNode(Node startNode);
 
 }
