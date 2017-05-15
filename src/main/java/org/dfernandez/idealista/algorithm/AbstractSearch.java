@@ -14,8 +14,6 @@ abstract class AbstractSearch implements Search {
     protected Node startNode;
     protected ServiceApi serviceApi;
 
-    protected AbstractSearch() {
-    }
 
     public AbstractSearch(ServiceApi serviceApi) {
         this.serviceApi = serviceApi;

@@ -4,7 +4,6 @@ import org.dfernandez.idealista.algorithm.*;
 import org.dfernandez.idealista.model.Direccion;
 import org.dfernandez.idealista.model.Mapa;
 import org.dfernandez.idealista.model.Urbanizacion;
-import org.dfernandez.idealista.util.Constants;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;
